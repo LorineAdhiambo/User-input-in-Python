@@ -1,4 +1,5 @@
-bjective: To learn how to take user input in Python
+Objective: 
+To learn how to take user input in Python
 
 
 
